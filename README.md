@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Lê Huỳnh Đức</h1>
 <p align="center">
-  <img src="https://octodex.github.com/images/welcometocat.png" width="200" alt="Hi from Octocat">
+  <img src="https://octodex.github.com/images/securitocat.png" width="200" alt="Hi from SecuritoCat">
 </p>
 
 ---
