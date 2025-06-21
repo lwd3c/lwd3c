@@ -43,7 +43,7 @@
 ## 🐍 Snake Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/lwd3c/lwd3c/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/lwd3c/snk/output/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
