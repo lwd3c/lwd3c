@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lehuyhduc&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuyhduc&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lwd3c&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwd3c&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -43,24 +43,24 @@
 ## 🐍 Snake Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/lehuyhduc/lehuyhduc/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/lwd3c/lwd3c/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 📌 [🔓 AutoPWN AI Toolkit](https://github.com/lehuyhduc/auto-bof-ai)
+### 📌 [🔓 AutoPWN AI Toolkit](https://github.com/lwd3c/auto-bof-ai)
 > AI-based static analysis tool that automatically finds and crafts exploits for buffer overflows.
 
-### 📌 [🔧 Pwn-Training-Lab](https://github.com/lehuyhduc/pwn-training-lab)
+### 📌 [🔧 Pwn-Training-Lab](https://github.com/lwd3c/pwn-training-lab)
 > A collection of binary challenges from easy to advanced with writeups and exploit scripts.
 
-### 📌 [📚 CTF Writeups](https://github.com/lehuyhduc/ctf-writeups)
+### 📌 [📚 CTF Writeups](https://github.com/lwd3c/ctf-writeups)
 > My collection of writeups for various CTFs, mostly focusing on PWN, RE, and Linux syscall abuse.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lehuyhduc&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lwd3c&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
