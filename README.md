@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋, I'm Lê Huỳnh Đức</h1>
+<h1 align="center">Welcome! I'm lwd3c</h1>
 <p align="center">
-  <img src="https://octodex.github.com/images/securitocat.png" width="200" alt="Hi from SecuritoCat">
+  <img src="https://octodex.github.com/images/securitocat.png" width="300" alt="Hi from SecuritoCat">
 </p>
 
 ---
@@ -15,28 +15,28 @@
 ## 🚩 Pwn Tools & Arsenal
 
 ![pwntools](https://img.shields.io/badge/pwntools-FCC624?style=for-the-badge&logo=python&logoColor=black)
+![pwndbg](https://img.shields.io/badge/pwndbg-CC342D?style=for-the-badge&logo=gnu&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-A5260A?style=for-the-badge&logo=ghidra&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA--Pro-000000?style=for-the-badge&logo=hex-rays&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-00599C?style=for-the-badge&logo=gnu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
 ## 📫 Connect with me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lehuyhduc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lehuyhduc)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duc@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lwd3c)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lwd3c)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leduc290604@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lwd3c&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwd3c&layout=compact&theme=radical" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lwd3c&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwd3c&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
@@ -44,23 +44,4 @@
 
 <p align="center">
   <img src="https://github.com/lwd3c/snk/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### 📌 [🔓 AutoPWN AI Toolkit](https://github.com/lwd3c/auto-bof-ai)
-> AI-based static analysis tool that automatically finds and crafts exploits for buffer overflows.
-
-### 📌 [🔧 Pwn-Training-Lab](https://github.com/lwd3c/pwn-training-lab)
-> A collection of binary challenges from easy to advanced with writeups and exploit scripts.
-
-### 📌 [📚 CTF Writeups](https://github.com/lwd3c/ctf-writeups)
-> My collection of writeups for various CTFs, mostly focusing on PWN, RE, and Linux syscall abuse.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lwd3c&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
