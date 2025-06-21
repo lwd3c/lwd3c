@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Lê Huỳnh Đức</h1>
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" alt="Hi from Octocat">
+  <img src="https://octodex.github.com/images/securitocat.png" width="200" alt="Hi from SecuritoCat">
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🐍 Snake Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lwd3c/snk/output/dist/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/lwd3c/snk/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
