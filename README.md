@@ -5,13 +5,6 @@
 
 ---
 
-🧠 **CTF Player & Exploit Developer**  
-🎯 Specializing in **PWN** (binary exploitation) challenges  
-⚙️ Experienced with **buffer overflows, format strings, ROP chains**, and **heap pwn**  
-🧪 Constantly digging into **glibc internals**, **syscalls**, and **binary reversing**
-
----
-
 ## 🚩 Pwn Tools & Arsenal
 
 ![pwntools](https://img.shields.io/badge/pwntools-FCC624?style=for-the-badge&logo=python&logoColor=black)
