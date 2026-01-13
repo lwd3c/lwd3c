@@ -101,4 +101,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=198&color=gradient&customColorList=2,0077ff,100,00eaff&section=footer"/>
-</div>>
+</div>
